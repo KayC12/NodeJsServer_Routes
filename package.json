@@ -1,0 +1,16 @@
+{
+  "name": "nodejsserver_routes",
+  "version": "1.0.0",
+  "description": "Creating a Node JS Server with Routes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shanna-kay Cummings",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "nodemon": "^2.0.21"
+  }
+}
